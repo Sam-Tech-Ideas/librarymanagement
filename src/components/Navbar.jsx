@@ -55,7 +55,7 @@ const Navbar = () => {
     <header class="text-gray-600 body-font border-b-2">
       <div class="container mx-auto flex  p-5  items-center justify-between">
         <div class="flex title-font font-medium items-center text-gray-900  md:mb-0">
-          <h2 class="ml-3 text-2xl italic ">TheLib</h2>
+          <h2 class="ml-3 text-2xl italic ">Community Library</h2>
         </div>
 
         <div>
